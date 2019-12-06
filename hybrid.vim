@@ -21,3 +21,18 @@ inoremap <C-p> <up>
 
 " C-n goes down
 inoremap <C-n> <down>
+
+" C-f goes forward
+inoremap <C-f> <right>
+
+" C-b goes back
+inoremap <C-b> <left>
+
+" C-k deletes to line end
+inoremap <C-k> <del>
+
+" A-f goes forward a word
+inoremap <A-f> <C-right>
+
+" A-b goes backward a word
+inoremap <A-b> <C-left>
